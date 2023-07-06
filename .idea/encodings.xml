@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/deeplx-micronaut/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deeplx-micronaut/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deeplx-quarkus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deeplx-quarkus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deeplx-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deeplx-vertx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deeplx-vertx/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

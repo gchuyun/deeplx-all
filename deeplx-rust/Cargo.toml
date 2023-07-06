@@ -1,0 +1,23 @@
+[package]
+name = "deeplx-rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tracing-subscriber = "0.3"
+axum = "0.6.18"
+reqwest = { version = "0.11", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+# structx = "0.1"
+regex = "1"
+nested-struct = { path = "./nested-struct", version = "0.1.0" }
+
+[build-dependencies]
+# inwelling = "0.5"
+
+# [package.metadata.inwelling]
+# structx = true

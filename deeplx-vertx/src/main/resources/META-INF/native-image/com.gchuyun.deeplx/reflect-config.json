@@ -1,0 +1,146 @@
+[
+  {
+    "name": "com.gchuyun.deeplx.MainVerticle",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ReqestData",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ReqestData$Params",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ReqestData$Lang",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ReqestData$CommonJobParams",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ReqestData$Text",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ResultData",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ResultData$Result",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ResultData$Text",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ResultData$Alternative",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ErrorData",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ErrorData$Error",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLDTO$ResponseData$ErrorData$Reason",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$RequestData",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$RequestData$Single",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$RequestData$Batch",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$ResponseData",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$ResponseData$Single",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$ResponseData$Batch",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$ResponseData$Batch$TranlateText",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.gchuyun.deeplx.DeepLXDTO$ResponseData$Error",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "io.vertx.core.impl.launcher.commands.RunCommand",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "io.vertx.core.impl.launcher.commands.VertxIsolatedDeployer",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "java.lang.Long",
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "java.lang.Integer",
+    "allDeclaredConstructors": true
+  },
+
+  {
+    "name": "vertx.HTTPVerticle",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "vertx.HTTPSVerticle",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "vertx.APIClientVerticle",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]

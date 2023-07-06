@@ -1,0 +1,4 @@
+{
+  "java.jdt.ls.java.home": "~/.sdkman/candidates/java/22.3.r19-grl",
+  "java.compile.nullAnalysis.mode": "automatic",
+}
